@@ -1,0 +1,3 @@
+ip   user_MG2.aternos.me
+PORT     38457
+NAME      GANJA
